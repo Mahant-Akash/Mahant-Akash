@@ -8,17 +8,17 @@
 
 <h1 align="center">Akash Mahant</h1>
 
-<p align="center">👋 Hello there! I'm Akash Mahant, a finance enthusiast with a fervent passion for problem-solving and the intricacies of financial systems.</p>
+👋 Hello there! I'm Akash Mahant, a finance enthusiast with a fervent passion for problem-solving and the intricacies of financial systems.
 
-<p align="center">🚀 Aspiring to delve deeper into the realms of finance, I'm on an exciting journey to explore the intersection of technology and its applications in the financial world.</p>
+🚀 Aspiring to delve deeper into the realms of finance, I'm on an exciting journey to explore the intersection of technology and its applications in the financial world.
 
-<p align="center">💻 With a solid background in accounting and finance, I bring over 3 years of hands-on experience in various financial domains. From financial analysis to strategic planning, I thrive in dynamic environments and embrace new challenges with enthusiasm.</p>
+💻 With a solid background in accounting and finance, I bring over 3 years of hands-on experience in various financial domains. From financial analysis to strategic planning, I thrive in dynamic environments and embrace new challenges with enthusiasm.
 
-<p align="center">🌱 Currently, I'm immersing myself in further honing my skills, particularly in Python, R, and Tableau, as I firmly believe in the power of continuous learning to stay ahead in this ever-evolving field.</p>
+🌱 Currently, I'm immersing myself in further honing my skills, particularly in Python, R, and Tableau, as I firmly believe in the power of continuous learning to stay ahead in this ever-evolving field.
 
-<p align="center">🎯 My mission is to leverage the fusion of finance and technology to drive positive change and make a lasting impact on the industry. Whether it's devising innovative financial models or collaborating on transformative projects, I'm fueled by the desire to create meaningful solutions that benefit both businesses and communities.</p>
+🎯 My mission is to leverage the fusion of finance and technology to drive positive change and make a lasting impact on the industry. Whether it's devising innovative financial models or collaborating on transformative projects, I'm fueled by the desire to create meaningful solutions that benefit both businesses and communities.
 
-<p align="center">🔍 Excited about the prospect of collaborating on cutting-edge projects or engaging in discussions about emerging tech trends? Let's connect and embark on an incredible journey of innovation and growth together!</p>
+🔍 Excited about the prospect of collaborating on cutting-edge projects or engaging in discussions about emerging tech trends? Let's connect and embark on an incredible journey of innovation and growth together!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
