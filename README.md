@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">Akash Mahant</h1>
+# Akash Mahant
 
 👋 Hello there! I'm Akash Mahant, a finance enthusiast with a fervent passion for problem-solving and the intricacies of financial systems.
 
