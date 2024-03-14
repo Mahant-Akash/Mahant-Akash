@@ -1,4 +1,4 @@
-[1[Masterhead]# Akash Mahant
+<h1 align="center">Akash Mahant</h1>
 
 👋 Hello there! I'm Akash Mahant, a finance enthusiast with a fervent passion for problem-solving and the intricacies of financial systems.
 
@@ -12,4 +12,12 @@
 
 🔍 Excited about the prospect of collaborating on cutting-edge projects or engaging in discussions about emerging tech trends? Let's connect and embark on an incredible journey of innovation and growth together!
 
-📫 Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/akashmahant/). I'm always open to new connections and opportunities to contribute to the exciting world of finance and technology.
+📫 Feel free to connect with me on LinkedIn. I'm always open to new connections and opportunities to contribute to the exciting world of finance and technology.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akashmahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmahant" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
