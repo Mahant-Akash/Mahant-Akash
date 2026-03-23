@@ -1,39 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 # Akash Mahant
+**MS in Finance | CFA Level I Candidate | Staff Accountant** 📍 Jersey City, NJ | [cite_start][LinkedIn](https://www.linkedin.com/in/akashmahant) | akash.r.mahant@gmail.com [cite: 1, 2, 4, 20]
 
-👋 Hello there! I'm Akash Mahant, a finance enthusiast with a fervent passion for problem-solving and the intricacies of financial systems.
+---
 
-🚀 Aspiring to delve deeper into the realms of finance, I'm on an exciting journey to explore the intersection of technology and its applications in the financial world.
+## 📈 Professional Summary
+[cite_start]Detail-oriented finance and accounting professional with expertise in accounts payable, account reconciliation, and financial reporting[cite: 3]. [cite_start]Proven track record in leveraging **Microsoft Power Automate** and **Excel Macros** to drive operational efficiency.
 
-💻 With a solid background in accounting and finance, I bring over 3 years of hands-on experience in various financial domains. From financial analysis to strategic planning, I thrive in dynamic environments and embrace new challenges with enthusiasm.
+---
 
-🌱 Currently, I'm immersing myself in further honing my skills, particularly in Python, R, and Tableau, as I firmly believe in the power of continuous learning to stay ahead in this ever-evolving field.
+## 💼 Work Experience
 
-🎯 My mission is to leverage the fusion of finance and technology to drive positive change and make a lasting impact on the industry. Whether it's devising innovative financial models or collaborating on transformative projects, I'm fueled by the desire to create meaningful solutions that benefit both businesses and communities.
+### **Staff Accountant** | Volunteers of America-Greater New York
+[cite_start]*Jan 2025 – Present* [cite: 5]
+* [cite_start]Engineered a two-stage **Microsoft Power Automate** workflow, reducing document processing time by **85%**[cite: 6].
+* [cite_start]Manage grant billing operations, submitting quarterly claims of **$45K–$100K** with 100% compliance[cite: 7].
+* [cite_start]Execute daily invoice and PO reconciliation in **Microsoft Business Central** with 99%+ accuracy[cite: 6].
 
-🔍 Excited about the prospect of collaborating on cutting-edge projects or engaging in discussions about emerging tech trends? Let's connect and embark on an incredible journey of innovation and growth together!
+### **Senior Process Associate** | Accenture
+[cite_start]*Aug 2019 – July 2022* [cite: 9]
+* [cite_start]Developed custom **Excel macros** that generated **$1,100 in quarterly cost savings**[cite: 10].
+* [cite_start]Maintained 100% accuracy across 500+ weekly invoices while exceeding KPI targets by 24%[cite: 11].
+* [cite_start]Recipient of the **Accenture Star of Business Award** (Dec 2020 & March 2022)[cite: 25].
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/akashmahant" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmahant" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
+## 🎓 Education & Certifications
+* **MS in Finance** | [cite_start]Stevens Institute of Technology (GPA: 3.86/4.00) 
+* [cite_start]**CFA Level I Candidate** [cite: 4]
+* **Bloomberg Market Concepts** | [cite_start]Bloomberg for Education [cite: 27]
+* **Fundamentals of Consulting** | [cite_start]Harvard Business Publishing Education [cite: 28]
 
-</body>
-</html>
+---
+
+## 🛠 Technical Skills
+* [cite_start]**Systems:** Microsoft Business Central, Oracle Cloud, Lawson ERP, Bloomberg Terminal[cite: 23, 34].
+* [cite_start]**Tools:** Advanced Excel (Macros, VLOOKUP, Pivot Tables), Power Automate, Tableau[cite: 23, 31].
+* [cite_start]**Finance:** GAAP, Internal Controls, DCF Analysis, Grant Billing, Portfolio Construction[cite: 21, 23].
