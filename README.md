@@ -1,9 +1,10 @@
 # Akash Mahant
 
 **MS in Finance | CFA Level I Candidate | Staff Accountant**
-📍 Jersey City, NJ
-📧 [akash.r.mahant@gmail.com](mailto:akash.r.mahant@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/akashmahant)
+* 📍 **Location:** Jersey City, NJ
+* 📧 **Email:** [akash.r.mahant@gmail.com](mailto:akash.r.mahant@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/akashmahant](https://www.linkedin.com/in/akashmahant)
+* 🌐 **Portfolio:** [mahant-akash.github.io](https://mahant-akash.github.io/akashmahant.github.io/)
 
 ---
 
